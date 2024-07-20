@@ -1,0 +1,1 @@
+# handwriting-digitalization-CNN
